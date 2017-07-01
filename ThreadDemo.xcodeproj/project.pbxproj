@@ -14,6 +14,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E3B443C21F07C9A700490A18 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		E3DB95A41F07AF2600C8BF31 /* ThreadDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ThreadDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E3DB95A71F07AF2600C8BF31 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E3DB95A91F07AF2600C8BF31 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -36,6 +37,7 @@
 		E3DB959B1F07AF2600C8BF31 = {
 			isa = PBXGroup;
 			children = (
+				E3B443C21F07C9A700490A18 /* README.md */,
 				E3DB95A61F07AF2600C8BF31 /* ThreadDemo */,
 				E3DB95A51F07AF2600C8BF31 /* Products */,
 			);
@@ -300,6 +302,7 @@
 				E3DB95B81F07AF2600C8BF31 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
